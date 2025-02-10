@@ -544,3 +544,13 @@ public class EmailInterface extends JFrame {
           if (confirm == JOptionPane.YES_OPTION) {
               System.exit(0);
           }
+      }
+
+      private void updateStatus(String message) {
+          statusLabel.setText(message);
+          // Clear status after 3 seconds
+          Timer timer = new Timer(3000, e -> statusLabel.setText(" "));
+          timer.setRepeats(false);
+          timer.start();
+      }
+  }

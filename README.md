@@ -6,7 +6,7 @@ Team Members: Tejas Sharma, Kyle Kim, Jasmine Hoang, Tran Gia Bao Dinh, Shreya B
 <p> This project was developed as part of the project for CSE360 at Arizona State University. 
 The objective is to design and implement a software application that allows for knowledge sharing and collaboration among students, instructors, academic staffs, and reviewers.
 The system would allow for students to ask and answer questions while reviewers and instructors would provide feedback to ensure high-quality responses. 
-The system would ensure secure authentication using BCrypt for password hashing and is developed using Eclipse.</p>
+</p>
 
 ## Key Functions include:
 - **User Authentication and Hashing / Autheticating Passwords**
@@ -29,7 +29,6 @@ The system would ensure secure authentication using BCrypt for password hashing 
 
 ## Repository Contents
 * Code
-* PDF Reports
 * Screencasts
   * Techincal Screencasts
   * User Experience Screencasts
@@ -43,9 +42,6 @@ The system would ensure secure authentication using BCrypt for password hashing 
   * Open Eclipse and import the project
   * Run the application using Java.
 
-* PDF Reports
-  * Location -> /PDF folder
-  * Open the PDFS for each report.
 
 * Screencasts
   * Location -> /Screencasts folder

@@ -9,8 +9,9 @@ The system would allow for students to ask and answer questions while reviewers 
 </p>
 
 ## Key Functions include:
-- **User Authentication and Hashing / Autheticating Passwords**
-
+- **User Authentication and Password Authentication**
+  - Users will be checked before allowing them to use the software through a login system.
+  
 - **User Roles & Permissions**
   - Users will be able to create a username and password for their log-ins and will be able to select their role.
   - Users will be able to have multiple roles (admin, student, instructor, staff, reviewer) with each role having different priviledges.

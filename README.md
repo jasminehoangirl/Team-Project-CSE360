@@ -57,6 +57,10 @@ The system would allow for students to ask and answer questions while reviewers 
   * Location -> /TeamNorms folder
   * Open the document and download.
 
-* Implementation Plan / Progress Made
-  * Location -> /Progress folder
-  * Open the document and download.
+* Automated Test Cases
+  * Location -> /TestCases
+  * Download file
+  * Place file in src/test/java/ directory
+  * Ensure that JUnit dependencies are in build.gradle
+  * Run tests with: gradle test
+  * View results in build/reports/tests/test/index.html
